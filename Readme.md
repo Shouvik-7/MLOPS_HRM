@@ -1,0 +1,1 @@
+set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\shouv\PycharmProjects\HotelReservationManagement\mlops-453320-99a149c514da.json
